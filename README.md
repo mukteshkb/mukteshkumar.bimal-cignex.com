@@ -2,7 +2,7 @@
 - 👀 I’m interested in hiring IT professionals Like Java, Liferay, Open Source,Etc.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on US IT Staffing...
-- 📫 How to reach me mukteshkumar.bimal@cignex.com
+- 📫 How to reach me via email is mukteshkb@gmail.com
 
 <!---
 mukteshkb/mukteshkb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
